@@ -6,8 +6,21 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0001-two-sum) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0001-two-sum) |
+## Matrix
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
