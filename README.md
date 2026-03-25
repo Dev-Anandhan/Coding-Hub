@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0001-two-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
 |  |
