@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +70,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
