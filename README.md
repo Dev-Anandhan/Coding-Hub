@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
