@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0303-range-sum-query-immutable) |
+| [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
