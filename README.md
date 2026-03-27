@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
@@ -89,4 +91,8 @@
 | [0367-valid-perfect-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
