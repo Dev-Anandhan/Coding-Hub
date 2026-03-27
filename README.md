@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0002-add-two-numbers) |
+| [0367-valid-perfect-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -82,5 +83,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
