@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0303-range-sum-query-immutable) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
@@ -86,5 +87,6 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
