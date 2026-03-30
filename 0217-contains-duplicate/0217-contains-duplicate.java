@@ -1,20 +1,12 @@
 import java.util.*;
-
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
-
-        int left = 0;
-        int right = 1;
-
-        while (right < nums.length) {
-            if (nums[left] == nums[right]) {
-                return true;
-            }
-            left++;
-            right++;
-        }
-
-        return false;
+         Set<Integer> set = new  HashSet<>();
+          for(int num: nums){
+             if(set.contains(num))return true;
+             set.add(num);       
+             
+         }
+        return false; 
     }
 }
