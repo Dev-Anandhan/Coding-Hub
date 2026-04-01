@@ -19,6 +19,7 @@
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
@@ -91,6 +92,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0217-contains-duplicate) |
+| [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
@@ -121,6 +123,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0020-valid-parentheses) |
+| [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 ## String Matching
 |  |
 | ------- |
