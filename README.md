@@ -57,6 +57,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0002-add-two-numbers) |
 | [0367-valid-perfect-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0412-fizz-buzz) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
 |  |
@@ -69,6 +70,7 @@
 | [0020-valid-parentheses](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0412-fizz-buzz) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -123,6 +125,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0412-fizz-buzz) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
