@@ -69,6 +69,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0412-fizz-buzz) |
