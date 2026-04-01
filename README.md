@@ -29,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Matrix
 |  |
@@ -71,6 +72,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0412-fizz-buzz) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
