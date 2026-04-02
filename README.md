@@ -22,6 +22,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0074-search-a-2d-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
 |  |
@@ -109,6 +111,7 @@
 | [0053-maximum-subarray](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Queue
 |  |
 | ------- |
