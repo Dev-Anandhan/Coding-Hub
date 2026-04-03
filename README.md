@@ -25,6 +25,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0217-contains-duplicate](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0217-contains-duplicate) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Queue
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0367-valid-perfect-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
