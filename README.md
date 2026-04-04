@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
@@ -35,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -109,6 +111,7 @@
 | [0088-merge-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
@@ -144,6 +148,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -170,4 +175,16 @@
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3474-lexicographically-smallest-generated-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
