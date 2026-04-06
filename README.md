@@ -21,6 +21,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
+| [0874-walking-robot-simulation](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0874-walking-robot-simulation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
@@ -38,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
+| [0874-walking-robot-simulation](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0874-walking-robot-simulation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Matrix
@@ -155,6 +157,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
