@@ -28,6 +28,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@
 | [0053-maximum-subarray](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Greedy
 |  |
 | ------- |
