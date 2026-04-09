@@ -29,6 +29,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@
 | [0169-majority-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Simulation
 |  |
 | ------- |
