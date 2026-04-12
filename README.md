@@ -93,6 +93,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
