@@ -36,6 +36,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0412-fizz-buzz](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
