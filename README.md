@@ -24,6 +24,7 @@
 | [0874-walking-robot-simulation](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0874-walking-robot-simulation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
@@ -123,6 +124,7 @@
 | [0088-merge-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0283-move-zeroes) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0367-valid-perfect-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
