@@ -23,6 +23,7 @@
 | [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
 | [0874-walking-robot-simulation](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0874-walking-robot-simulation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0128-longest-consecutive-sequence) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 ## Stack
 |  |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
