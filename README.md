@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1143-longest-common-subsequence](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
