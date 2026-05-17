@@ -23,6 +23,7 @@
 | [0724-find-pivot-index](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0724-find-pivot-index) |
 | [0874-walking-robot-simulation](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0874-walking-robot-simulation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1306-jump-game-iii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -242,6 +243,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Geometry
 |  |
@@ -252,4 +254,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
