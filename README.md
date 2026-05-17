@@ -33,6 +33,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -55,6 +56,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-walking-robot-simulation](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0874-walking-robot-simulation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2784-check-if-array-is-good](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -146,6 +148,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0347-top-k-frequent-elements) |
 | [2463-minimum-total-distance-traveled](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/3661-maximum-walls-destroyed-by-robots) |
