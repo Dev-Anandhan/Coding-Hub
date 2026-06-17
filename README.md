@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0074-search-a-2d-matrix) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0217-contains-duplicate) |
@@ -65,6 +67,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0074-search-a-2d-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
