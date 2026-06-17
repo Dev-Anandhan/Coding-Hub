@@ -1,5 +1,6 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
+        // seen rows[i][num] = true if digit num+1 is already in row i
         boolean[][] seenRows = new boolean[9][9];
         boolean[][] seenCols = new boolean[9][9];
         boolean[][] seenBoxes = new boolean[9][9];
