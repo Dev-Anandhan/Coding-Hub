@@ -186,6 +186,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0704-binary-search) |
@@ -276,8 +277,14 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
