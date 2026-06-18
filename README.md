@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0144-binary-tree-preorder-traversal) |
 | [2751-robot-collisions](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/2751-robot-collisions) |
 ## String Matching
 |  |
@@ -250,6 +251,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0144-binary-tree-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Geometry
@@ -270,4 +272,12 @@
 | ------- |
 | [0051-n-queens](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0052-n-queens-ii) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
