@@ -287,4 +287,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0222-count-complete-tree-nodes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
