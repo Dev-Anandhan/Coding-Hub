@@ -253,6 +253,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0938-range-sum-of-bst) |
 | [1306-jump-game-iii](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Geometry
@@ -278,11 +279,13 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0222-count-complete-tree-nodes) |
+| [0938-range-sum-of-bst](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0222-count-complete-tree-nodes) |
+| [0938-range-sum-of-bst](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0938-range-sum-of-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -292,4 +295,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0182-duplicate-emails) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Dev-Anandhan/Coding-Hub/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
